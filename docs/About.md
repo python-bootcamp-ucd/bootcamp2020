@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Who We Are"
+permalink: /about/
+---
+
 ### Instructors
 
 _Sommer Johansen_
