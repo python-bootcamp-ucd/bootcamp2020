@@ -1,6 +1,3 @@
----
-layout:default
----
 
 ## Welcome to Python Bootcamp 2020
 
