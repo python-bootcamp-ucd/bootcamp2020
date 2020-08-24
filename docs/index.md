@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Python Bootcamp 2020
 
-You can use the [editor on GitHub](https://github.com/python-bootcamp-ucd/bootcamp2020/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Everything you need to successfully learn something from the workshop can be found on this website. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. 
 
 ### Markdown
 
