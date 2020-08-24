@@ -8,9 +8,9 @@ Everything you need to successfully learn something from the workshop can be fou
 
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. 
 
-[Learn more about us and why we started this workshop here] (./About.md).
+[Learn more about us and why we started this workshop here](./About.md).
 
-[Register for the workshop here] (https://forms.gle/HtNYjE33KV2yXwCJ7).
+[Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7).
 
 ### Agenda and Daily Objectives
 
