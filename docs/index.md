@@ -10,7 +10,7 @@ Everything you need to successfully learn something from the workshop can be fou
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. 
 
 ### Agenda
-```markdown
+
 - Day 1
 
 - Day 2
