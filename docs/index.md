@@ -4,29 +4,13 @@ Everything you need to successfully learn something from the workshop can be fou
 
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Agenda
 ```markdown
-Syntax highlighted code block
+- Day 1
 
-# Header 1
-## Header 2
-### Header 3
+- Day 2
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Day 3
 
 ### Jekyll Themes
 
