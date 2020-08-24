@@ -1,3 +1,7 @@
+---
+layout:page
+---
+
 ## Welcome to Python Bootcamp 2020
 
 Everything you need to successfully learn something from the workshop can be found on this website. 
