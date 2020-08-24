@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Who We Are"
+theme: jekyll_theme_cayman
 permalink: /about/
 ---
 
