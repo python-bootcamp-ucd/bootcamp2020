@@ -1,3 +1,6 @@
+---
+permalink: \about\
+---
 ### Instructors
 
 _Sommer Johansen_
