@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "Who We Are" 
 permalink: \about\
 ---
 ### Instructors
