@@ -7,7 +7,6 @@ Our goal is to give you a basic understanding of the structure of Python, what i
 
 [Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7).
 
-[Learn more about us and why we started this workshop here](./about.md).
 
 ### Format
 This workshop will be held over Zoom on September 22, 23, and 24, with a bonus open session on September 25 for additional questions or troubleshooting. Each session will be 6-7 PM Pacific Time, followed by an hour of optional group work on the homework assignments in Zoom breakout rooms. Sessions will be recorded for anyone interested who cannot make those times (the breakout rooms will not be recorded, nor will the bonus session on September 25). 
@@ -37,7 +36,7 @@ The majority of the workshop will use Jupyter Notebooks, which can be run from a
 
 - Day 3: 
   - What is an IDE? 
-  - 
+  - Additional data manipulation
   
 ### Additional Pre-recorded Videos (YouTube links to come as we make them) 
 - Day 1: The Basics
@@ -54,8 +53,8 @@ The majority of the workshop will use Jupyter Notebooks, which can be run from a
 
 - Day 3: 
   - Introduction to Spyder
-  - Fitting
   - Classes
+  - Fitting
 
 
 
