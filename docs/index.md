@@ -33,9 +33,11 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Variables
   - Lists
   - Loops
+  - Functions
+  - NumPy introduction
   - Import data from a text file
-  - Simple line plots
-  - Google as a troubleshooting tool
+  - Simple line and scatter plots
+  - Google is your friend
 
 - Day 2: Manipulating Lists and Doing Math
   - Indexing lists
@@ -46,6 +48,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Programming in an IDE
   - SciPy
   - NumPy
+  - SymPy
   
 ### Additional Videos  
 - Day 1: The Basics
