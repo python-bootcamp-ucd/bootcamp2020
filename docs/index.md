@@ -54,23 +54,20 @@ To better cement concepts taught each day, a homework assignment will be given. 
 - Day 1: The Basics
   - [Introduction to Jupyter](https://www.youtube.com/watch?v=p1PKGDz0Y6A&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=2) (_watch before first session!_)
     - This short video includes a brief introduction to Jupyter notebooks as well as some basic math and variable types. 
-  - PB&J Coding Example
-  - Functions
   - [If/Else Statements](https://www.youtube.com/watch?v=AWek49wXGzI&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&t=378s)
     - Watch from 6:18 to 17:12
   - [While Loops](https://www.youtube.com/watch?v=Ghz4YwOXtTA)
     - Inifinite loops are not are addressed in this video but are a risk with while loops! While watching, think about what would happen without the line "i += 1". 
-  - Debugging 
 
 - Day 2: Manipulating Lists and Doing Math
-  - Plotting Basics (_watch before second session!_)
   - Even More Plotting Examples (ipython notebook)
-  - Integration and Differentiation
+  - Integration
+  - Differentiation
 
 - Day 3: Integrated Development Environments and Additional Libraries
-  - Introduction to Spyder
+  - Anaconda Download Tutorial
   - Classes
   - Fitting
 
 
-
+This workshop is a Professors for the Future project. Check out [their website](https://gradpathways.ucdavis.edu/pftf-about) for more information about this UC Davis fellowship program. 
