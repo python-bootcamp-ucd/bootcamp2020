@@ -9,6 +9,7 @@ Instructions:
   3. In your empty notebook, go to "File", then "Open". This will take you to a new page with a directory of all files in your Binder. Select the "Upload" button in the right corner.
   4. Upload the csv file. It is now in your directory, and you can import data from it. 
   5. Here's the actual homework! 
+  
     - Open the csv file and examine what's in it. What variable types are in here? Strings, floats, or integers? 
     - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot. (_Note: you'll have to make all longitudes negative._)
     - Your scatter plot should look vaguely like the outline of the US. Make sure Alaska is in the right place! If it's not, make sure you are plotting the correct x and y values.
