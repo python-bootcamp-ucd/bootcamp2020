@@ -4,4 +4,7 @@ dependencies:
   - matplotlib=3.3.0
   - pillow
   - jupyter
-
+  - ipympl
+  - scipy
+  - pandas
+  - pathlib
