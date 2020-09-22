@@ -35,7 +35,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Loops
   - Functions
   - NumPy introduction
-  - Import data from a text file
+  - Import data from a text file (You'll have to download [this simple text file](https://python-bootcamp-ucd.github.io/bootcamp2020/survey1775.txt) to follow along with this example.)
   - Simple line and scatter plots
   - Google is your friend
 
