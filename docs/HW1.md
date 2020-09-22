@@ -1,7 +1,7 @@
 ## Homework for Day 1
 
 Here is a csv file with a list of US States, and the latitudes and longitudes of the state's centers. 
-(../../HomeworkFiles/DataFile/StateYlyTempAndLocDataDay1.csv) 
+(StateYlyTempAndLocDataDay1.csv) 
 
 Instructions:
   1. Download the csv file from the link above. 
