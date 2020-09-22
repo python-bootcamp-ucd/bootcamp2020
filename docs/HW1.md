@@ -1,7 +1,7 @@
 ## Homework for Day 1
 
 Here is a csv file with a list of US States, and the latitudes and longitudes of the state's centers. 
-(StateYlyTempAndLocDataDay1.csv) 
+[StateAndLocDataDay1.csv](http://python-bootcamp-ucd.github.io/bootcamp2020/StateAndLocDataDay1.csv) 
 
 Instructions:
   1. Download the csv file from the link above. 
