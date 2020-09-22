@@ -7,7 +7,7 @@ Our goal is to give you a basic understanding of the structure of Python, what i
 
 [Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7). Registration closes at 4 PM on September 22nd. A Zoom Webinar link will be sent out at that time. 
 
-Interested in volunteering? [Sign up here.](https://forms.gle/SMh2Zae3ja2ipBR78)
+This workshop is a Professors for the Future project. Check out [their website](https://gradpathways.ucdavis.edu/pftf-about) for more information about this UC Davis fellowship program. 
 
 
 ### Format
@@ -73,4 +73,4 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Fitting
 
 
-This workshop is a Professors for the Future project. Check out [their website](https://gradpathways.ucdavis.edu/pftf-about) for more information about this UC Davis fellowship program. 
+
