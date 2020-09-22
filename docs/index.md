@@ -38,6 +38,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Import data from a text file
   - Simple line and scatter plots
   - Google is your friend
+
 [Day 1 Homework Assignment](https://python-bootcamp-ucd.github.io/bootcamp2020/HW1)
 
 - Day 2: Manipulating Lists and Doing Math
