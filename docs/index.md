@@ -16,7 +16,7 @@ You do not need to download anything to get started. The majority of the worksho
 [Click here for an empty Jupyter notebook.](https://jupyter.org/try) Select "Try Classic Notebook." It will take a little while to load. When it does, go to "File" and select "New Notebook" then "Python 3". We recommend copying what is being taught verbatim during the instruction. Before the first lesson, we recommend watching this [short YouTube tutorial about Jupyter notebooks.](https://www.youtube.com/watch?v=p1PKGDz0Y6A&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=2) 
 
 For your reference, you can access the full tutorials that we're going over here under "TutorialFiles". It will also take a little while to load.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-bootcamp-ucd/bootcamp2020/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-bootcamp-ucd/bootcamp2020/master)
 
 This workshop will be held over Zoom on September 22, 23, and 24, with a bonus open session on September 25 for additional questions or troubleshooting. Each session will be 6-7 PM Pacific Time, followed by an hour of optional group work on the homework assignments in Zoom breakout rooms. Sessions will be recorded for anyone interested who cannot make those times (the breakout rooms will not be recorded, nor will the bonus session on September 25). 
 
