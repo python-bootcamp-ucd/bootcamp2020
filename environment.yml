@@ -1,4 +1,4 @@
-name: numpy-tutorial
+name: bootcamp2020
 dependencies:
   - numpy
   - matplotlib=3.3.0
