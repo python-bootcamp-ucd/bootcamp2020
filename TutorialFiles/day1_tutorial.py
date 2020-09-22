@@ -267,14 +267,22 @@ x=np.arange(0,100,5)
 y=np.arange(0,20,1)
 
 #plt.plot(x,y)
+#plt.title("Scatter Plot Example")
+#plt.xlabel("x axis")
+#plt.ylabel("y axis")
+#plt.show()
 #
 #plt.scatter(x,y)
+#plt.title("Scatter Plot Example")
+#plt.xlabel("x axis")
+#plt.ylabel("y axis")
+#plt.savefig("Example.png")
 
 """
 Part 8
     -import data from text or csv file
 """
-plt.close("all")
+
 
 x_list=[]
 y_list=[]
@@ -282,29 +290,29 @@ y_list=[]
 
 #open your file externally first and make sure your know what is in it! 
 
-filename="survey1775.txt"
 #this file contains the amplitude and frequency values from the microwave spectrum of the cis-beta-cyanovinyl
 
-file=open(str(filename),"r")
-#this opens the survey1775.txt file and assigns its contents to the variable "file"
+with open("survey1775.txt","r") as filename:
+#this file contains the amplitude and frequency values from the microwave spectrum of the cis-beta-cyanovinyl
+#this opens the survey1775.txt file and assigns its contents to the variable "filename"
 #the "r" means read, because we just want to read the context. "w" is write, but we don't want to change the file. 
 #we can now manipulate this "file" variable
 
-junk=file.readline()
-print(junk)
-#The first line of my file is not data, just words. 
-#I don't want it in my lists of data so I'm just assigning it to a junk variable
-#now when I use the "file" variable, it won't include this first line
+    junk=filename.readline()
+    print(junk)
+    #The first line of my file is not data, just words. 
+    #I don't want it in my lists of data so I'm just assigning it to a junk variable
+    #now when I use the "file" variable, it won't include this first line
 
-for line in file:
-#this loops through every line in the file
-    x,y = line.split()
-#this takes each line and splits it into two separate variables
-#this only works if there are separated values on each line
-#if the values are comma separated add "," inside the parentheses
-    x_list.append(float(x))
-    y_list.append(float(y))
-#Now I have lists of my frequency values (x) and amplitudes (y)    
+    for line in filename:
+        #this loops through every line in the file
+        x,y = line.split()
+        #this takes each line and splits it into two separate variables
+        #this only works if there are separated values on each line
+        #if the values are comma separated add "," inside the parentheses
+        x_list.append(float(x))
+        y_list.append(float(y))
+ #Now I have lists of my frequency values (x) and amplitudes (y)    
 
 print(x_list)
 print(y_list)
