@@ -5,7 +5,7 @@ Everything you need to successfully learn something from the workshop can be fou
 
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. This workshop was developed for incoming graduate students who have no previous coding experience. Current graduate students and those with prior coding experiences are also welcome! Besides learning Python, this is a great chance to meet other graduate students at UC Davis who are not necessarily in your graduate group. 
 
-[Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7).
+[Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7). Registration closes at 4 PM on September 22nd. A Zoom Webinar link will be sent out at that time. 
 
 Interested in volunteering? [Sign up here.](https://forms.gle/SMh2Zae3ja2ipBR78)
 
