@@ -10,3 +10,4 @@ dependencies:
   - pathlib
   - ipywidgets
   - jupyterlab
+  - jupyter-matplotlib
