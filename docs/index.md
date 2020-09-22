@@ -13,9 +13,9 @@ Interested in volunteering? [Sign up here.](https://forms.gle/SMh2Zae3ja2ipBR78)
 ### Format
 You do not need to download anything to get started. The majority of the workshop will use Jupyter Notebooks, which can be run from a browser with no downloads needed. Additional guidance on how to install and run Python on your computer will also be provided. 
 
-[Click here for an empty Jupyter notebook.](https://jupyter.org/try) Select "Try Classic Notebook." It will take a few minutes to load. When it does, go to "File" and select "New Notebook" then "Python 3". We recommend copying what is being taught verbatim during the instruction. Before the first lesson, we recommend watching this [short YouTube tutorial about Jupyter notebooks.](https://www.youtube.com/watch?v=p1PKGDz0Y6A&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=2) 
+[Click here for an empty Jupyter notebook.](https://jupyter.org/try) Select "Try Classic Notebook." It will take a little while to load. When it does, go to "File" and select "New Notebook" then "Python 3". We recommend copying what is being taught verbatim during the instruction. Before the first lesson, we recommend watching this [short YouTube tutorial about Jupyter notebooks.](https://www.youtube.com/watch?v=p1PKGDz0Y6A&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=2) 
 
-For your reference, you can access the full tutorials that we're going over here.
+For your reference, you can access the full tutorials that we're going over here under "TutorialFiles". It will also take a little while to load.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-bootcamp-ucd/bootcamp2020/master?urlpath=lab)
 
 This workshop will be held over Zoom on September 22, 23, and 24, with a bonus open session on September 25 for additional questions or troubleshooting. Each session will be 6-7 PM Pacific Time, followed by an hour of optional group work on the homework assignments in Zoom breakout rooms. Sessions will be recorded for anyone interested who cannot make those times (the breakout rooms will not be recorded, nor will the bonus session on September 25). 
@@ -44,11 +44,12 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Data smoothing
   - Additional plotting tools
 
-- Day 3: Integrated Development Environments and Additional Libraries
+- Day 3: Integrated Development Environments, Additional Libraries, Debugging
   - Programming in an IDE
   - SciPy
   - NumPy
   - SymPy
+  - Debugging and Troubleshooting
   
 ### Additional Videos  
 - Day 1: The Basics
