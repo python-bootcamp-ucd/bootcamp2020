@@ -9,4 +9,4 @@ dependencies:
   - pandas
   - pathlib
   - ipywidgets
-  - jupyter-matplotlib
+  - jupyterlab
