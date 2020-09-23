@@ -1,0 +1,10 @@
+00:20:51	Zachary Scott Buchanan:	https://python-bootcamp-ucd.github.io/bootcamp2020/
+00:25:25	Zachary Scott Buchanan:	To access the full tutorial, you can go to: https://mybinder.org/v2/gh/python-bootcamp-ucd/bootcamp2020/master then navigate to TutorialFiles/day1_tutorial.py
+00:37:57	Zachary Scott Buchanan:	Answered in the Q&A. @michaela
+00:43:58	Zachary Scott Buchanan:	Can you comment on the questions now?  I changed the settings in there.
+01:07:54	Xiaoya Zhang:	Is the assignment later required for this training?
+01:08:56	Zachary Scott Buchanan:	@Xiaoya it is not required, but it will give you some practice with the techniques, and help internalize them better.  This is a voluntary workshop, and nothing is required here.  Just optional activities to help aid learning
+01:09:27	Xiaoya Zhang:	Great thanks. 
+01:14:46	Zachary Scott Buchanan:	Hi all!  Here's a link to the slack that we setup for the bootcamp to get help with python: https://join.slack.com/t/pythonbootcamp2020/shared_invite/zt-hp8v79no-KtWx4oladYfhkonRHs9EUQ
+01:22:24	Veronica Tsarkova:	Thank you so much!
+01:23:08	Sommer Johansen:	https://ucdavis.zoom.us/j/91022446980 
