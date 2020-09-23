@@ -55,7 +55,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - SymPy
   - Debugging and Troubleshooting
   
-### Additional Videos  
+### Additional Videos and Tutorials
 - Day 1: The Basics
   - [Introduction to Jupyter](https://www.youtube.com/watch?v=p1PKGDz0Y6A&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=2) (_watch before first session!_)
     - This short video includes a brief introduction to Jupyter notebooks as well as some basic math and variable types. 
