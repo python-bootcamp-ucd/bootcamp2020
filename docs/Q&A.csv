@@ -1,0 +1,115 @@
+﻿Question Report,
+Report Generated:,"Sep 23, 2020 3:55 PM"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+Python Bootcamp,916 2662 7589,"Sep 22, 2020 5:48 PM", 86, 57
+Question Details,
+#,Question,Asker Name,Asker Email,Answer(s),
+1,mine is running,Anonymous Attendee,,
+2,What version of python3 is used today?,Parker Bremer,parkerbremer@gmail.com,3.6.11
+3,Is there a difference between single and double quotes?,Kwun Nok Mimi Man,knmman@ucdavis.edu,"Technically, yes.  But functionally in python, it doesn't make a difference which you use, both create strings"
+4,how did she get the numbers [ ],Anonymous Attendee,,Whcih numbers?
+5,How about special numbers like i or pi?,Melody Golobic,asgolobic@ucdavis.edu,"Pi you can find in the numpy library (we'll touch on that library later.  If you want to do it now, you can run
+import numpy
+numpy.pi
+
+Imaginary numbers are denoted with 'j' in python.  So 1j gives you i","pi also exists in the math library. But as Zach said, we'll get to libraries in general a little later"
+6,Thanks!,Kwun Nok Mimi Man,knmman@ucdavis.edu,
+7,"Do the the type of brackets we use matter?
+",Kevin Lee,kvelee@ucdavis.edu,Yes.  The () brackets tell python you want to call a function.  The [] brackets are used for indexing the arrays.
+8,how would you add it as the first variableof the list instead of the end with the append function??,Anonymous Attendee,,"There are several ways to do this.  The easist is with the ""insert"" function, so if you had an array A, you would run the following command
+
+A.insert(0,valueToInsert) # Zero represents the first indext, so this would stick this inside the array at the front instead of the back",
+9,how do you get to the binder again.  All I get is error,Anonymous Attendee,,"https://jupyter.org/try is where sommer went, then she clicked ""Try classic notebook"""
+10,"Sorry, I jumped in a little late, could you put the the link to the git repository again?",Siena Saltzen,scsaltzen@ucdavis.edu,https://python-bootcamp-ucd.github.io/bootcamp2020/
+11,is there a difference between e=9.5 versus e = 9.5?,Anonymous Attendee,,"No.  Spaces between variables are just for human readability.  THis is not true at the start of the line, but anytime after the first thing you type, they are ignored"
+12,"Is there a shortcut to create a new box? Not sure what they are called, but the boxes that we’re typing code into",Michaela DeBolt,michaeladebolt@gmail.com,"They're called cells (it doesn't matter, but in case you want to know)  if you are not currently in a cell, you can use a or b to insert one above or below where you are.  IF you're in a cell, you can hit escape then do it.  There is a bar to the left that indicates where you are, andthus where your new cell will go"
+13,w do you get to jupyter again,Anonymous Attendee,,"https://jupyter.org/try then click ""Try Classic notebook"""
+14,Why will ^ instead of ** cause problems?,Paloma Fernandez-Mira,pfernandezmira@ucdavis.edu,The syntax in python for exponents is **.  It does not recognzie ^,,
+15,"I'm sorry, what is ""//"" again?",Bryan Le,bynle@ucdavis.edu,"It divides, then rounds down to the nearest integer",thanks!,It's called "floor division" just incase you wanted to do some googling on it or needed to know the specific name of it.
+16,// was what function again?,Michael Kohn,mikelkohn16@gmail.com,"It does the division, then rounds down to the nearest integer",It's called "floor division" just incase you wanted to do some googling on it.
+17,I am so lost,Anonymous Attendee,,I'm sorry.  The version on github has some more comments on it that might make it easier to follow along with what Sommer is doing.  https://github.com/python-bootcamp-ucd/bootcamp2020/blob/master/TutorialFiles/day1_tutorial.py,
+18,could she go a bit slower,Michael Kohn,mikelkohn16@gmail.com,
+19,dont you have to declare i?,Karen Parra,kpar@ucdavis.edu,,The declaration of i is implicit in the for-loop statement. So we don't need to explicitly declare it prior to that.,"In python, the for loop syntax automatically creates the i variable, so you don't have to declare it beforehand","if you make a second for loop after using the same i, do you have to declare it to be zero again?",Did Sommer just answer your question? Or would you like further explanation?
+20,"do you have to put spaces in between things? for instance, n=i**2 vs. n = i**2",Noah Haughn,njhaughn@ucdavis.edu,,You do not.  It's personal preference.  Those two are equivelent
+21,Apologies me what is the difference between the starlist and the finallist?,Marwa Zafarullah,mzafarullah@ucdavis.edu,,finallist contains the squared values of startlist,,Thanks simran
+22,what is % function?,Michael Kohn,mikelkohn16@gmail.com,,"It's division, but gives you the remainder instead.  So 5%2 gives you one, where 5//2 gives you 2"
+23,what if when im running that for loop i just want it to print out the completed final list and not each iteration what do i do,Yasmine Bouchibti,ybouchibti@ucdavis.edu,,"Put the print statement outside of your for loop instead of inside of it.  This is done by unindenting it, so that it is on the same indentation level as the line that starts with ""for""",move the call to the print function so that it exists outside of the for-loop (e.g. remove the four spaces before the print),
+24,Can you clear a variable?,Melody Golobic,asgolobic@ucdavis.edu,,Kind of?  You can reassign it to None.,"Gotcha, her comment on not reusing variables ties into my question."
+25,"If you only wanted the final version of finallist, would you change the indentation of finallist.append(n)? (bring it in alignment with ‘for’?",Sophia Minnillo,smminnillo@ucdavis.edu,,"No, because you are adding each time the list goes through.  but if you un-indent the print statement, it will only print out the final version",
+26,"when i type enter after filling a bracket, the closing bracket follows to the next line. is there a way to press return without moving the right bracket, or do i just have to put the cursor out of the bracket before i press return?",Anonymous Attendee,,,"Unfortunately, I don't know a way to get past it without moving your cursor."
+27,m= 1,Muhammad Adil Salim,asalim@ucdavis.edu,,Not sure what your question is.
+28,is there a way to comment out code (like you can in R so that it doesn’t run),Abby Primack,asprimack@ucdavis.edu,,A # symbol will comment everything after that on the line,surrounding your line by “”” on both sides will also comment,"Yes.  For a single line, you can put # at the start to comment the line.  For multiline, you can use a triple quote """""" """""" on either side of the lines you want gone.  
+
+""""
+multi
+line
+comment 
+"""""""
+29,Why did you use j vs i on the second loop?,Monica Quezada,monquezada@ucdavis.edu,,No particular reason.  You can use whatever variable you want for the looping variable.
+30,"I got this error, how do I resolve it:",Jessica Bolivar-McPeek,jbolivarmcpeek@ucdavis.edu,,
+31,"d = 100 
+Varlist.append(d)
+print(Varlist)
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+<ipython-input-12-4e1747920790> in <module>
+      1 d = 100
+----> 2 Varlist.append(d)
+      3 print(Varlist)
+
+AttributeError: 'tuple' object has no attribute 'append'",Jessica Bolivar-McPeek,jbolivarmcpeek@ucdavis.edu,,Did you declare an empty list called: Varlist=[],What does the line where you define Varlist look like?,"That means you defined Varlist with () instead of [].  You might have written Varlist = (1,2,3) instead of Varlist = [1,2,3]."
+32,Whats the exact difference between MATLAB and Python?,Shubhankar Raykar,ssraykar@ucdavis.edu,,"Python is free, and has many more features, so it is less optimized for the things matlab is.  Anything you can do in matlab can be accomplished in python though, as well as many other things",,Thanks!
+33,Will all the Q&As be collected and posted later?,Helen Zhou,zjhzhou@ucdavis.edu,,"Yes, we can do that.  Good suggestion"
+34,"will the code still run if its not connected to the server? seems like I have connection issues 
+(zoom is fine for me though)",Kevin Lee,kvelee@ucdavis.edu,"will the code still run if its not connected to the server? seems like I have connection issues 
+(zoom is fine for me though)","It will not run.  That's one problem with binder.  If you go too long between running code, it kills your machine that you're running it on, and you'll have to launch a new one.",
+35,whats the point of newlist = [],Michael Kohn,mikelkohn16@gmail.com,,"If you are going to add to a list (append), you have to declare the list first, in order to have something to append to. newlist = [] just declares a new, empty list.",This gives you an empty list that you can then use the append function on when you're doing your loop.  You're setting up an empty variable with that command
+36,Can she slow down more?,Anonymous Attendee,,,,
+37,what is the purpose of the return in the function,Yasmine Bouchibti,ybouchibti@ucdavis.edu,,,live answered,"So we have a typed answer as well:
+Functions are stand alone pieces of code.  When they finish running, all the variables that you create inside of them get deleted.  the return statement in the function tells python hey, send this output from my function back to the main code.  It allows you to do calculations in the function, then just return the result to your main script that you're working with",
+38,can you please restate what the purpose of the loop is?,Anonymous Attendee,,,"loops allow you to execute a set of instructions many times. Sometimes you want to do many calculations that are all essentially the same, but you don’t want to write the instructions for those calculations each on their own separate lines. Instead you can write a loop that allows you to repeatedly execute instructions.",Thanks Dan
+39,What is squarelist? the function? What does def stand for?,Anonymous Attendee,,,"Yes, squarelist is the function. ""def"" stands for ""define"" and is used to define a function. Any time you call `squarelist(any_list)` with parentheses, it will run all of the code inside of that ""def squarelist"" snippet. I denoted `any_list` as the input, but instead of `any_list` it can be any list. So the following will work: squarelist([1,2,3])","yes, squarelist is a function that sommer made.  Def stands for define, and it tells python that you're wanting to define your own function.  
+
+def functionName(input variables):
+
+return (output variables)"
+40,"Instead of my lines being numbered (like “In [35]”), they are now “In [*]” and will not produce an output line when I run the line. Do you know why this might be?",Emily Geoghegan,ekgeoghegan@ucdavis.edu,,"the [*] indicates that the kernal is currently running your code.  If it's taking a really long time, you may have a bad connection, you could have an infinite loop, or you could have lost your connection to binder.","Click ""Kernel"" on the jupyter toolbar, then go down to ""Restart"". Essentially the ""ln [*]"" is teling you that your kernel died, which may or may not have been due to the code you were running. If it does this again after you restart it, let me know and I can help you clear up any code related issues.",thank you!!
+41,Where is the day 1 tutorial?,Irene Liou,iyliou@ucdavis.edu,Where is the day 1 tutorial?,https://github.com/python-bootcamp-ucd/bootcamp2020/blob/master/TutorialFiles/day1_tutorial.py,
+42,"I missed what NumPy is, can you explain it again? Thanks!",Abby Primack,asprimack@ucdavis.edu,,NumPy is numerical python. It is the basis for performing operations with arrays and matrices in python.,"It is a library of functions in python.  It has a lot of built in features useful for doing math.  It allows you to use arrays, and it's built in functions are typically much faster using those than you can do with loops and lists.","Python by itself actually doesn’t have a lot of functions, so there are libraries that you can import, which contain lots of useful functions, like exponentiation, dot products, and some useful numbers, like pi, etc. There will be more on libraries in a following session."
+43,I dont quit understand what the point of calling numpy was.. could we not just use the arange function on an a random array we create ??,Yasmine Bouchibti,ybouchibti@ucdavis.edu,,"The `arange` function exists within numpy. Without numpy, we can not access `arange`",The arange function is part of the numpy library.    You can convert your lists to arrays if you want using numpy.array(YourListHere),
+44,Is numpy a subset of math library ?,Deepthi Narina,dnarina@ucdavis.edu,,"It is not, it is separate, and much more robust than the math library"
+45,I am trying to use the import matplotlib on pycharm but I am unable to get it to work. Is there a reason why it may not work? I have pip install mayplotlib.,Anonymous Attendee,,,"If you're in pycharm, yes you will need to `pip install matplotlib` to your computer. The binder linke we used already had numpy and matplotlib installed.","I installed it and this is the error I am getting. Traceback (most recent call last):
+  File ""C:/Users/qwzho/PycharmProjects/lesson/beginner course.py"", line 25, in <module>
+    import matplotlib.pyplot as plt
+  File ""C:\Users\qwzho\PycharmProjects\lesson\venv\lib\site-packages\matplotlib\pyplot.py"", line 2336, in <module>
+    switch_backend(rcParams[""backend""])
+  File ""C:\Users\qwzho\PycharmProjects\lesson\venv\lib\site-packages\matplotlib\__init__.py"", line 703, in __getitem__
+    plt.switch_backend(rcsetup._auto_backend_sentinel)
+  File ""C:\Users\qwzho\PycharmProjects\lesson\venv\lib\site-packages\matplotlib\pyplot.py"", line 256, in switch_backend
+    switch_backend(candidate)
+  File ""C:\Users\qwzho\PycharmProjects\lesson\venv\lib\site-packages\matplotlib\pyplot.py"", line 276, in switch_backend
+    class backend_mod(matplotlib.backend_bases._Backend):
+  File ""C:\Users\qwzho\PycharmProjects\lesson\venv\lib\site-packages\matplotlib\pyplot.py"", line 277, in backend_mod
+    locals().update(vars(importlib.impor","It looks like your error message got cut off, can you post the rest of it?",Hopefully we can answer the question in the breakout rooms or on slack
+46,how do we download the text file,Michael Kohn,mikelkohn16@gmail.com,,https://raw.githubusercontent.com/python-bootcamp-ucd/bootcamp2020/master/TutorialFiles/survey1775.txt then right click and say save as
+47,how do you import the file again? Missed that step while downloading it,Brett Bormann,bormannbrett@gmail.com,,File -> Open -> Upload I believe,thank you!
+48,where did we save the file ? should we pass te entire directory name ?,Deepthi Narina,dnarina@ucdavis.edu,,"If you followed Sommer, it's in the same directory as your script, and you don't need to specify the full directory name.  If it's elsewhere, you'll need to put in the path to take from where your script is to open it"
+49,"x_list= []
+y_list= []
+
+with open(""survey1775.txt"",""r"") as filename
+    junk = filename.readline()
+    print(junk)
+
+File ""<ipython-input-43-7501b1ba79c0>"", line 8
+    with open(""survey1775.txt"",""r"") as filename
+                                               ^
+SyntaxError: invalid syntax",Michael Kohn,mikelkohn16@gmail.com,,what was my mistake?,"You forgot the colon at the end of your line with the ""with open...""",You forgot the : at the end of the with line I believe
+50,Is there a way to read in the column names instead of re-assigning them to variables?,mj heise,mjheise@ucdavis.edu,,With this method no.  We'll talk about using the pandas library tomorrow which does allow you to do this.
+51,"with open(""survey1775.txt"", ""r"") as filename:",Cameron Riddell,criddell@ucdavis.edu,,:+1:
+52,FileNotFoundError: [Errno 2] No such file or directory: 'survey1775.txt',Gillian Meeks,glmeeks@ucdavis.edu,,same,Did you upload the txt file to your jupyter notebook directory?,how do you upload it to that,it is uploaded into my jupyter notebook folder with this workshop in it
+53,How do you import the data file?,Karen Parra,kpar@ucdavis.edu,,,WE can cover it in the breakout rooms.  It's also in the HW1 page on the website
+54,I missed how import the data file,Yasmine Bouzid,yybouzid@ucdavis.edu,,,We can talk about this in the breakout rooms
+55,How does assigning to junk remove the header line?,Kwun Nok Mimi Man,knmman@ucdavis.edu,,"The way we're reading the data in, the filename is a stream of data, and by using the readline() function, we have already gone past the first line, and the next line to be read will be line 2",The call to `filename.readline()` reads the first line of the file. Storing it to junk wasn't entirely necessary to skip that first line.
+56,where is the link to the break out rooms,Alexander Kehl,akehl@ucdavis.edu,,"It’s in the chat, a few lines up, but here it is again: https://ucdavis.zoom.us/j/91022446980",:+1:
+57,Thanks all!,Kwun Nok Mimi Man,knmman@ucdavis.edu,

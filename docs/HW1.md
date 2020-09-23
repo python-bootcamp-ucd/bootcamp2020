@@ -14,3 +14,8 @@ Instructions:
   - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot. (_Note: you'll have to make all longitudes negative._)
   - Your scatter plot should look vaguely like the outline of the US. Make sure Alaska is in the right place! If it's not, make sure you are plotting the correct x and y values.
   - That's it! Congratulations, you finished your first Python assignment! 
+  
+## Answer
+[Script](http://python-bootcamp-ucd.github.io/bootcamp2020/hw1.py)
+
+[Plot](http://python-bootcamp-ucd.github.io/bootcamp2020/Day_1_HW_Answer.png)
