@@ -27,7 +27,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 ### Agenda and Daily Objectives
 
-- Day 1: The Basics [Recording available here.](https://www.youtube.com/watch?v=YPa42doNvxs)
+- Day 1: The Basics [Recording available here.](https://www.youtube.com/watch?v=YPa42doNvxs), (Q&A, although not a pretty format, available here.)[https://python-bootcamp-ucd.github.io/bootcamp2020/Q&A.csv]
   - Introductions
   - What is coding? Why Python?
   - Variables
