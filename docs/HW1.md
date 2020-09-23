@@ -17,4 +17,5 @@ Instructions:
   
 ## Answer
 [Script](http://python-bootcamp-ucd.github.io/bootcamp2020/hw1.py)
+
 [Plot](http://python-bootcamp-ucd.github.io/bootcamp2020/Day_1_HW_Answer.png)
