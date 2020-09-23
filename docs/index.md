@@ -27,7 +27,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 ### Agenda and Daily Objectives
 
-- Day 1: The Basics
+- Day 1: The Basics [Recording available here.](https://www.youtube.com/watch?v=YPa42doNvxs)
   - Introductions
   - What is coding? Why Python?
   - Variables
