@@ -18,17 +18,25 @@ b = 10.1
 c = 'ten'
 
 #a is an integer, b is a float, c is a string
+
 print('integer:',a)
 print('float:',b)
 print('string:',c)
 print(a,b,c)
 print('The answers are:',a,b,c)
 
-"""You can also make an integer a float or vice versa."""
+#You can change types between integers, floats, and strings.
 
 print(float(a))
 print(int(b))
+print(str(b))
 #note that this rounds to 10
+
+#Note that there are variable names you shouldn't use because they are built in functions. 
+print(list)
+
+#this prints as a recognized class. A random unassigned variable raises an error when printed.
+#print(randomword)
 
 """
 Part 2
@@ -41,12 +49,12 @@ varlist = [a,b,c]
 #"list" is now a variable that contains a list of other variables. 
 #Note that list= [10, 10.1, 'ten'] is functionally the same. 
 
-print('list:',varlist)
+print('variable list:',varlist)
 
 #appending to a list let's you add more items on the end
 d = 100
 varlist.append(d)
-print('letters with d:',varlist)
+print('list with d:',varlist)
 
 # if you only need one item in a list, you can index it
 
@@ -79,9 +87,6 @@ print('e squared = ', esquare)
 fsqrt = f**0.5
 print('sqrt of f = ',fsqrt)
 
-fmod0 = e % f
-print('e modulus f = ',fmod0)
-
 emod1 = e % 3
 print('e modulus 3 = ',emod1)
 
@@ -93,10 +98,14 @@ print('43 modulus f = ', fmod2)
 ##combine an integer with a float and it becomes a float
 
 list2=[e,f]
+list3=[f,f,f]
 #you can multiply a list by an integer to make it repeat itself
 mult=list2*4
 print('multiplied list:',mult)
 #
+
+added=list2+list3
+print('added list:', added)
 
 """
 Part 4
@@ -142,12 +151,12 @@ for i in startlist:
     
     
     
-m=0
+m=1
 mlist=[]
-#In this loop, let's add 0+1+2+3+4+5+...+20   
-for j in range(1,21):
+#In this loop, let's add 1+2+3+4+5+...+20   
+for j in range(2,21):
     #this will loop over values of j=1 to j=20
-    m=+j
+    m+=j
     #this is equivalent to m=m+j
     print(m)
     #this will show m increasing during each loop. 
@@ -168,10 +177,10 @@ Part 5
 
 
 
-def squarelist(list):
-    #"list" is a placeholder that can be replaced by any list when the function is called
+def squarelist(mylist):
+    #"mylist" is a placeholder that can be replaced by any list when the function is called
     newlist=[]
-    for i in list:
+    for i in mylist:
         n = i**2
         newlist.append(n)
     return newlist
@@ -192,10 +201,10 @@ print(squarelist(listfunc3))
 
 #adding a print statement into the function will cause the output to print whenever the function is called
 
-def squarelist2(list):
+def squarelist2(mylist):
     #"list" is a placeholder that can be replaced by any list when the function is called
     newlist=[]
-    for i in list:
+    for i in mylist:
         n = i**2
         newlist.append(n)
     print(newlist)
