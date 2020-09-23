@@ -46,6 +46,8 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - Data smoothing
   - Additional plotting tools
 
+[Day 2 Homework Assignment](https://python-bootcamp-ucd.github.io/bootcamp2020/HW2)
+
 - Day 3: Integrated Development Environments, Additional Libraries, Debugging
   - Programming in an IDE
   - SciPy
