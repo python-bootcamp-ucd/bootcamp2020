@@ -65,12 +65,14 @@ To better cement concepts taught each day, a homework assignment will be given. 
     - Inifinite loops are not are addressed in this video but are a risk with while loops! While watching, think about what would happen without the line "i += 1". 
 
 - Day 2: Manipulating Lists and Doing Math
-  - Even More Plotting Examples (ipython notebook)
+  - [Even More Plotting Examples (ipython notebook)](https://python-bootcamp-ucd.github.io/bootcamp2020/matplotlibModule.ipynb)
   - [Integration](https://youtu.be/iwhwfXC2iNQ)
   - [Differentiation](https://youtu.be/fmTivdroRmg)
 
 - Day 3: Integrated Development Environments and Additional Libraries
-  - Anaconda Download Tutorial
+  - [Anaconda Install Documentation](https://docs.anaconda.com/anaconda/install/) 
+    - Scroll down and select your operating system. Follow instructions. Once installed, make sure you can open Spyder.
+    - (_Try to get this installed before the Day 3 instruction. If you need help, ask in Slack._)
   - Classes
   - Fitting
 
