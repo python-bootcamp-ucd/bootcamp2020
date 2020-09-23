@@ -66,8 +66,8 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 - Day 2: Manipulating Lists and Doing Math
   - Even More Plotting Examples (ipython notebook)
-  - Integration
-  - Differentiation
+  - [Integration](https://youtu.be/iwhwfXC2iNQ)
+  - [Differentiation](https://youtu.be/fmTivdroRmg)
 
 - Day 3: Integrated Development Environments and Additional Libraries
   - Anaconda Download Tutorial
