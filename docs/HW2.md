@@ -18,3 +18,5 @@ Instructions:
   - Your scatter plot should look vaguely like the outline of the US. Make sure Alaska is in the right place! If it's not, make sure you are plotting the correct x and y values.
   - That's it! Congratulations, you finished your second Python assignment! 
 
+
+[Answer is here.](python-bootcamp-ucd.github.io/bootcamp2020/HomeworkDay2.ipynb)
