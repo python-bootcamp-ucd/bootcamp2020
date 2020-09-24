@@ -41,7 +41,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 [Day 1 Homework Assignment](https://python-bootcamp-ucd.github.io/bootcamp2020/HW1)
 
-- Day 2: Manipulating Lists and Doing Math
+- Day 2: Manipulating Lists and Doing Math [Recording available here.](https://youtu.be/isbj1yqpwuM)
   - Indexing lists
   - Data smoothing
   - Additional plotting tools
