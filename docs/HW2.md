@@ -19,4 +19,4 @@ Instructions:
   - That's it! Congratulations, you finished your second Python assignment! 
 
 
-[Answer is here.](python-bootcamp-ucd.github.io/bootcamp2020/HomeworkDay2.ipynb)
+[Answer is here.](https://python-bootcamp-ucd.github.io/bootcamp2020/HomeworkDay2)
