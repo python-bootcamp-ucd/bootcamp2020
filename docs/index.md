@@ -1,6 +1,8 @@
 
 ## Welcome to Python Bootcamp 2020
 
+Thank you so much to everyone who attended the 2020 sessions! This website will remain active, with links to all recordings and resources. In addition, here is a list of [free resources for continuing to learn Python.](https://python-bootcamp-ucd.github.io/bootcamp2020/resources)
+
 Everything you need to successfully learn something from the workshop can be found on this website. 
 
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. This workshop was developed for incoming graduate students who have no previous coding experience. Current graduate students and those with prior coding experiences are also welcome! Besides learning Python, this is a great chance to meet other graduate students at UC Davis who are not necessarily in your graduate group. 
@@ -8,7 +10,6 @@ Our goal is to give you a basic understanding of the structure of Python, what i
 [Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7). Registration closes at 4 PM on September 22nd. A Zoom Webinar link will be sent out at that time. 
 
 This workshop is a Professors for the Future project. Check out [their website](https://gradpathways.ucdavis.edu/pftf-about) for more information about this UC Davis fellowship program. 
-
 
 ### Format
 You do not need to download anything to get started. The majority of the workshop will use Jupyter Notebooks, which can be run from a browser with no downloads needed. Additional guidance on how to install and run Python on your computer will also be provided. 
@@ -68,6 +69,7 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 - Day 2: Manipulating Lists and Doing Math
   - [Even More Plotting Examples (ipython notebook)](https://python-bootcamp-ucd.github.io/bootcamp2020/matplotlibModule.ipynb)
+  - [Publication quality plots with MatPlotLib](https://python-bootcamp-ucd.github.io/bootcamp2020/pub_quality_plot_from_import.py)
   - [Integration](https://youtu.be/iwhwfXC2iNQ)
   - [Differentiation](https://youtu.be/fmTivdroRmg)
 
