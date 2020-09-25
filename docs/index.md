@@ -48,12 +48,12 @@ To better cement concepts taught each day, a homework assignment will be given. 
 
 [Day 2 Homework Assignment](https://python-bootcamp-ucd.github.io/bootcamp2020/HW2)
 
-- Day 3: Integrated Development Environments, Additional Libraries, Debugging
+- Day 3: Integrated Development Environments, Additional Libraries, Debugging [Recording available here.](https://youtu.be/VeCiG6VqZ_0)
   - Programming in an IDE
   - SciPy
   - NumPy
   - SymPy
-  - Debugging and Troubleshooting
+  - Debugging and Troubleshooting [Debugging problems here,](https://python-bootcamp-ucd.github.io/bootcamp2020/Debugging.py) [with answers here.](https://python-bootcamp-ucd.github.io/bootcamp2020/Debugging_Answers.py)
   
 [Day 3 Homework Assignment](https://python-bootcamp-ucd.github.io/bootcamp2020/HW3)
   
@@ -75,8 +75,9 @@ To better cement concepts taught each day, a homework assignment will be given. 
   - [Anaconda Install Documentation](https://docs.anaconda.com/anaconda/install/) 
     - Scroll down and select your operating system. Follow instructions. Once installed, make sure you can open Spyder.
     - (_Try to get this installed before the Day 3 instruction. If you need help, ask in Slack._)
-  - Classes
-  - Fitting
+  - [Classes](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+    - We didn't talk about classes or object oriented programming at all, but they are important concepts to understand if you plan on continuing your Python journey. That being said, you can still find a way to do almost anything in Python without classes, but it's at least important to know they exist. This short introduction shows some of the functionality of classes and how they're different than the type of coding we covered. 
+  - [Fitting](https://youtu.be/6pw2m_GRf1s)
 
 
 
