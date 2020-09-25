@@ -39,4 +39,7 @@ def fit_eq(x, m, b):
 - Now all that's left is to make a scatter plot, just like the one you made for homework 2. Except now, the color of each dot is determined by the line that you fit. Once you have the plot, compare it to the one for HW 2. What are the similarities and differences? 
 - That's it! Congratulations, you've finished the final project of Python Bootcamp! 
 
+## Answer
+[Script](http://python-bootcamp-ucd.github.io/bootcamp2020/HW3.py)
 
+[Plot](http://python-bootcamp-ucd.github.io/bootcamp2020/Day_3_HW_Answer.png)
