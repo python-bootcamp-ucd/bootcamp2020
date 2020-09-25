@@ -17,9 +17,11 @@ You're attempting to answer a similar question- how much has the average tempera
 - Like in homework 2, make a list of state names, latitudes, longitudes, and temperatures. The temperature list is actually a list of lists. 
   - Make sure to not import the empty data for Alaska. Here's an if statement that will help (don't forget to check the Day 1 if/else video!)
 '''
+  {
   for i in state_data[3:]:
         if i != '':
             temps.append(float(i))
       temp_list.append(temps)
+   }
 '''
     
