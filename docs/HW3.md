@@ -17,18 +17,19 @@ You're attempting to answer a similar question- how much has the average tempera
 - Like in homework 2, make a list of state names, latitudes, longitudes, and temperatures. The temperature list is actually a list of lists. 
   - The data has some extra formatting stuff in there. You can remove it by using the strip function. Try looking up how this works. 
   - Make sure to not import the empty data for Alaska. Here's an if statement that will help (don't forget to check the Day 1 if/else video!) but you'll have to use the appropriate variables from your code. "!=" means "does not equal". 
+  
 ```
-
-  for i in state_data[3:]:
-        if i != '':
-            temps.append(float(i))
-      temp_list.append(temps)
-
+for i in state_data[3:]:
+      if i != '':
+          temps.append(float(i))
+    temp_list.append(temps)
 ```
 - Define this function for the slope of a line. It's important in this case that the variables are in this order. 
+
+
 ```
-  def fit_eq(x, m, b):
-    return (m*x)+b
+def fit_eq(x, m, b):
+  return (m*x)+b
 ```
 - Next, make lists of the y values (temperatures) and x values (years) for each state. Think of these as individual scatter plots that you want to fit a trend line to. You don't have to plot them, but it might help visualize what you're doing. 
   - You can use the years from the headers (you might have assigned this line to the junk variable at the beginning). Make sure that these lists are the same length for each state! Again, Alaska is the tricky one here. 
