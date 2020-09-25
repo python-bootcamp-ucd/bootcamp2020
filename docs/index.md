@@ -1,13 +1,9 @@
 
 ## Welcome to Python Bootcamp 2020
 
-Thank you so much to everyone who attended the 2020 sessions! This website will remain active, with links to all recordings and resources. In addition, here is a list of [free resources for continuing to learn Python.](https://python-bootcamp-ucd.github.io/bootcamp2020/resources)
-
-Everything you need to successfully learn something from the workshop can be found on this website. 
+Thank you so much to everyone who attended the 2020 sessions! This website will remain active, with links to all recordings and resources. In addition, here is a list of [free resources for continuing to learn Python.](https://python-bootcamp-ucd.github.io/bootcamp2020/resources) If you have any questions about any of the content on this website, please email sljohansen@ucdavis.edu. 
 
 Our goal is to give you a basic understanding of the structure of Python, what it can be used for, and provide with you the tools you need to learn anything else you might need. This workshop was developed for incoming graduate students who have no previous coding experience. Current graduate students and those with prior coding experiences are also welcome! Besides learning Python, this is a great chance to meet other graduate students at UC Davis who are not necessarily in your graduate group. 
-
-[Register for the workshop here](https://forms.gle/HtNYjE33KV2yXwCJ7). Registration closes at 4 PM on September 22nd. A Zoom Webinar link will be sent out at that time. 
 
 This workshop is a Professors for the Future project. Check out [their website](https://gradpathways.ucdavis.edu/pftf-about) for more information about this UC Davis fellowship program. 
 
@@ -23,7 +19,7 @@ This workshop will be held over Zoom on September 22, 23, and 24, with a bonus o
 
 Besides the hour of live teaching each day, there will be several YouTube/pre-recorded videos that will complement the content taught each day. Some videos we will recommend watching ahead of time, others should be viewed after that day's session. We will make it very clear which is which! 
 
-To better cement concepts taught each day, a homework assignment will be given. The three assignments total will build on each other so that by the end, you will have finished a fun Python project! Our theme this year is climate. Stay tuned to see an example of a finished project. 
+To better cement concepts taught each day, a homework assignment will be given. The three assignments total will build on each other so that by the end, you will have finished a fun Python project! 
 
 
 ### Agenda and Daily Objectives
