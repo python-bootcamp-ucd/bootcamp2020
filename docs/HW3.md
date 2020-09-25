@@ -15,7 +15,8 @@ The color of each state's dot will be determined by the slope of this trend line
 You're attempting to answer a similar question- how much has the average temperature changed in the last century? - but you're using a different method. 
 - Besides importing matplot.pyplot and numpy, you also need to import scipy.optimize (as so, or as sciop, is fine)
 - Like in homework 2, make a list of state names, latitudes, longitudes, and temperatures. The temperature list is actually a list of lists. 
-  - Make sure to not import the empty data for Alaska. Here's an if statement that will help (don't forget to check the Day 1 if/else video!)
+  - The data has some extra formatting stuff in there. You can remove it by using the strip function. Try looking up how this works. 
+  - Make sure to not import the empty data for Alaska. Here's an if statement that will help (don't forget to check the Day 1 if/else video!) but you'll have to use the appropriate variables from your code. "!=" means "does not equal". 
 ```
 
   for i in state_data[3:]:
@@ -24,4 +25,17 @@ You're attempting to answer a similar question- how much has the average tempera
       temp_list.append(temps)
 
 ```
-    
+- Define this function for the slope of a line. It's important in this case that the variables are in this order. 
+```
+  def fit_eq(x, m, b):
+    return (m*x)+b
+```
+- Next, make lists of the y values (temperatures) and x values (years) for each state. Think of these as individual scatter plots that you want to fit a trend line to. You don't have to plot them, but it might help visualize what you're doing. 
+  - You can use the years from the headers (you might have assigned this line to the junk variable at the beginning). Make sure that these lists are the same length for each state! Again, Alaska is the tricky one here. 
+- In order to see how the trends are changing, you want your lists to start with the earliest years. The "reverse" function will help you do that. 
+- Now comes the most important part! You want to fit each state's data using the scipy.optimize.curve_fit function. Look up the documentation for this function. 
+- This function outputs two arrays. Print them both out. Which one contains the parameter that is important for the scatter plot of the US? The documentation will help you figure this out. Ask questions if you're not sure! 
+- Now all that's left is to make a scatter plot, just like the one you made for homework 2. Except now, the color of each dot is determined by the line that you fit. Once you have the plot, compare it to the one for HW 2. What are the similarities and differences? 
+- That's it! Congratulations, you've finished the final project of Python Bootcamp! 
+
+
