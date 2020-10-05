@@ -12,5 +12,5 @@
  - https://automatetheboringstuff.com/ 
  - [Modern Pandas blog series by Tom Augspurger](https://tomaugspurger.github.io/modern-1-intro.html)
  - http://pbpython.com/effective-matplotlib.html
- 
+ - [Introduction to Biopython](https://www.coursera.org/lecture/python-genomics/lecture-8-biopython-13-32-ahlsr)
   
